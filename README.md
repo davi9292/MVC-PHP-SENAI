@@ -22,17 +22,6 @@ Este projeto é um CRUD (Create, Read, Update, Delete) completo para gerenciamen
 -  **Animações CSS** modernas e suaves
 -  **Feedback visual** para todas as ações
 
-## Screenshots
-
-### Página Principal - Lista de Produtos
-![Página Principal](<img width="1898" height="904" alt="image" src="https://github.com/user-attachments/assets/0f78a61b-3405-4b8d-af1e-9de9a4b5a9c0" />)
-*Interface principal com tabela de produtos e barra de busca*
-
-### Formulário de Adicionar Produto
-![Formulário](<img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/89c51931-2ba6-4389-b0fa-c39da8a634d6" />
-)
-*Formulário para cadastro de novos produtos com validação*
-
 ## Tecnologias Utilizadas
 
 - **Backend:** PHP 8.0+
